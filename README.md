@@ -42,19 +42,3 @@
     </picture>
   </a>
 </div>
-
-<!--
-**bvercesi-dev/bvercesi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Eu estou atualmente focando em construir um portfólio de aplicações para migrar de carreira, da advocacia tributária para o TI
-- 🌱 Estou atualmente aprendendo HTML, CSS e JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 bvercesi.dev@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
