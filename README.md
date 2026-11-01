@@ -32,5 +32,5 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bvercesi-dev&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
 
-<br><br>  <figure><embed src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/9f5a1621-a06f-4e35-9df8-f5d7337e1833.svg"></embed></figure>
+ <figure><embed src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/9f5a1621-a06f-4e35-9df8-f5d7337e1833.svg"></embed></figure>
 </div>
