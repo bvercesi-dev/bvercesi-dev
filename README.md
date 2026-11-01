@@ -32,13 +32,5 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bvercesi-dev&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
 
-<br><br>  <a href="https://wakatime.com/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=a63a3aa0-d58b-43b5-a7d8-3318e0f313e4&langs_count=6&theme=dark_github"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=a63a3aa0-d58b-43b5-a7d8-3318e0f313e4&langs_count=6&theme=light_github" alt="Alan's WakaTime stats" />
-    </picture>
-  </a>
+<br><br>  <figure><embed src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/9f5a1621-a06f-4e35-9df8-f5d7337e1833.svg"></embed></figure>
 </div>
