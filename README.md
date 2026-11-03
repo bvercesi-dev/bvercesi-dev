@@ -12,5 +12,5 @@
 🔭 I am currently focusing on building a portfolio of applications as part of a career change from tax law to the tech sector<br>
 🌱 I’m currently learning front-end development frameworks and languages: HTML, CSS and JavaScript - and don't forget about Python!<br>
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b5190f52-4c5b-4c50-9b3d-2416e6cad1e1" /> I am a Master’s student in Tax Law (MA) at the Brazilian Institute of Tax Studies (IBET) and an undergraduate student studying software engineering at the Paulista Faculty of Information Technology and Administration (FIAP)<br>
-🗣 I speak English and Portuguese fluently, a little French as well, and I’m starting to learn Swedish
+🗣 I speak English and Portuguese fluently, a little French as well, and I’m starting to learn Swedish<br>
 📫 bvercesi.dev@gmail.com
