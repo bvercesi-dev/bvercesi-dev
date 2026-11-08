@@ -17,4 +17,5 @@
 📫 bvercesi.dev@gmail.com
 
 <br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/cbbadc00-3696-4780-8246-8d3f0307717e.png" width="500" height="345"></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/d8bfccec-f4bc-4d18-b649-05cfc919d9ae.png"  width="500" height="345"></a>
