@@ -15,7 +15,8 @@
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b5190f52-4c5b-4c50-9b3d-2416e6cad1e1" /> Sou mestranda em Direito Tributária no Instituto Brasileiro de Estudos Tributários IBET e graduanda em engenharia de software na Faculdade de Informática e Administração Paulista FIAP<br>
 🗣 Falo inglês e português fluentemente, um pouco de francês também e estou começando a aprender sueco<br>
 📫 bvercesi.dev@gmail.com
-
+<br><br>
+[![wakatime](https://wakatime.com/badge/user/a63a3aa0-d58b-43b5-a7d8-3318e0f313e4.svg)](https://wakatime.com/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4)
 <br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/cbbadc00-3696-4780-8246-8d3f0307717e.png" width="400" height="305"></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/d8bfccec-f4bc-4d18-b649-05cfc919d9ae.png"  width="400" height="305"></a>
