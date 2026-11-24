@@ -1,22 +1,373 @@
 
-<h2><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/769eeff0-1050-4f6e-ac93-cbf036e1442d" />Hello world! I'm Beatriz Vercesi 👋
-</h2>
-🔭 I'm currently focusing on building a portfolio of applications as part of a career change from tax law to the tech sector<br>
-🌱 I'm currently learning front-end development frameworks and languages: HTML, CSS and JavaScript - and don't forget about Python!<br>
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b5190f52-4c5b-4c50-9b3d-2416e6cad1e1" /> I am a Master’s student in Tax Law (MA) at the Brazilian Institute of Tax Studies (IBET) and an undergraduate student studying software engineering at the Paulista Faculty of Information Technology and Administration (FIAP)<br>
-🗣 I speak English and Portuguese fluently, a little French as well, and I’m starting to learn Swedish<br>
-📫 bvercesi.dev@gmail.com
-<br><br>
-<h2><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/769eeff0-1050-4f6e-ac93-cbf036e1442d" />Olá mundo! Sou a Beatriz Vercesi 👋
-</h2>
+<div align="center">
 
-🔭 Eu estou atualmente focando em construir um portfólio de aplicações para migrar de carreira, da advocacia tributária para o TI<br>
-🌱 Estou atualmente aprendendo frameworks e linguagens para front-end dev: HTML, CSS e JavaScript - e não se esqueça do Python!<br>
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b5190f52-4c5b-4c50-9b3d-2416e6cad1e1" /> Sou mestranda em Direito Tributária no Instituto Brasileiro de Estudos Tributários IBET e graduanda em engenharia de software na Faculdade de Informática e Administração Paulista FIAP<br>
-🗣 Falo inglês e português fluentemente, um pouco de francês também e estou começando a aprender sueco<br>
-📫 bvercesi.dev@gmail.com
-<br><br>
+<h1>
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/769eeff0-1050-4f6e-ac93-cbf036e1442d" />
+Hello World! I'm Beatriz Vercesi 👋
+</h1>
+
+### ⚡ From Law to Code.
+
+**Software Engineering Student | Tax Lawyer | Lifelong Learner**
+
+![FIAP](https://img.shields.io/badge/FIAP-Software%20Engineering-ED145B?style=flat-square)
+![IBET](https://img.shields.io/badge/IBET-Master's%20Student-283149?style=flat-square)
+![Career](https://img.shields.io/badge/Career-Transition-6C757D?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Brazil-2E7D32?style=flat-square)
+
+*Learning by doing. Building by understanding. Evolving by design.*
+
+</div>
+
+---
+
+## 👩‍💻 Sobre mim
+*About me*
+
+⚖️ Sou advogada tributarista, mestranda em Direito Tributário e graduanda em Engenharia de Software, atualmente em processo de transição de carreira para a área de tecnologia.
+
+*I am a tax lawyer, a Master's student in Tax Law, and a Software Engineering undergraduate student, currently transitioning into a career in technology.*
+
+🔭 Atualmente, estou focada na construção de um portfólio de aplicações, no desenvolvimento de competências técnicas e na exploração de diferentes áreas da engenharia de software.
+
+*I am currently focused on building a portfolio of applications, developing technical skills, and exploring different areas of software engineering.*
+
+🌱 Estou aprendendo linguagens, frameworks e ferramentas de desenvolvimento web, além de aprofundar meus conhecimentos em lógica de programação e Python.
+
+*I am learning web development languages, frameworks, and tools while expanding my knowledge of programming logic and Python.*
+
+🧠 Minha formação interdisciplinar combina raciocínio analítico, pensamento crítico, resolução de problemas e curiosidade intelectual.
+
+*My interdisciplinary background combines analytical reasoning, critical thinking, problem-solving, and intellectual curiosity.*
+
+💡 Acredito na tecnologia como instrumento de transformação, inovação e resolução de problemas reais.
+
+*I believe in technology as a tool for transformation, innovation, and real-world problem-solving.*
+
+---
+
+## 🎓 Formação acadêmica
+*Academic background*
+
+### 💻 Engenharia de Software
+*Software Engineering*
+
+**FIAP — Faculdade de Informática e Administração Paulista**
+
+Graduação em andamento | 2026 – presente
+
+*Undergraduate degree in progress | 2026 – present*
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-2E7D32?style=flat-square)
+
+### ⚖️ Mestrado em Direito Tributário
+*Master's Degree in Tax Law*
+
+**IBET — Instituto Brasileiro de Estudos Tributários**
+
+Mestrado acadêmico em andamento.
+
+*Academic Master's degree in progress.*
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-2E7D32?style=flat-square)
+
+### 📚 Direito
+*Law*
+
+Bacharel em Direito e advogada com atuação na área tributária.
+
+*Law graduate and practicing lawyer specializing in tax law.*
+
+![Status](https://img.shields.io/badge/Status-Completed-283149?style=flat-square)
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+*Technologies and tools*
+
+### 🌐 Desenvolvimento front-end
+*Front-end development*
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Programação e ambiente de execução
+*Programming and runtime environment*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🔧 Ferramentas de desenvolvimento e versionamento
+*Development and version control tools*
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🎨 Design e produtividade
+*Design and productivity*
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+
+As tecnologias apresentadas fazem parte do meu processo contínuo de aprendizagem e desenvolvimento.
+
+*The technologies presented are part of my continuous learning and development journey.*
+
+---
+
+## 🔍 Áreas de interesse
+*Areas of interest*
+
+- 💻 Desenvolvimento de software
+
+  *Software development*
+
+- 🌐 Desenvolvimento full-stack
+
+  *Full-stack development*
+
+- 🏗️ Arquitetura e modelagem de sistemas
+
+  *Software architecture and system modeling*
+
+- 🤖 Automação e inteligência artificial
+
+  *Automation and artificial intelligence*
+
+- ⚖️ LegalTech e TaxTech
+
+  *Legal technology and tax technology*
+
+- 📊 Engenharia de dados e soluções orientadas a dados
+
+  *Data engineering and data-driven solutions*
+
+- 🎨 Desenvolvimento de produtos digitais
+
+  *Digital product development*
+
+- 🧩 Algoritmos e resolução de problemas
+
+  *Algorithms and problem-solving*
+
+---
+
+## 📂 Portfólio e projetos
+*Portfolio and projects*
+
+Este espaço reúne meus projetos acadêmicos, aplicações autorais, experimentos e estudos independentes em tecnologia.
+
+*This space brings together my academic projects, personal applications, experiments, and independent technology studies.*
+
+### 📚 Software Engineering Lab
+
+![Type](https://img.shields.io/badge/Type-Academic-283149?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In%20Progress-2E7D32?style=flat-square)
+
+Laboratório acadêmico dedicado aos exercícios, atividades práticas e conteúdos desenvolvidos durante a graduação em Engenharia de Software na FIAP.
+
+*An academic laboratory dedicated to exercises, practical assignments, and topics covered throughout my Software Engineering degree at FIAP.*
+
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/bvercesi-dev/software-engeneering-lab)
+
+
+### 🌱 Agrotech — Projeto FIAP
+
+![Type](https://img.shields.io/badge/Type-Academic-283149?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In%20Progress-E6A700?style=flat-square)
+![Category](https://img.shields.io/badge/Category-AgroTech-2E7D32?style=flat-square)
+
+Projeto acadêmico desenvolvido durante a graduação em Engenharia de Software na FIAP, voltado à aplicação da tecnologia no setor agrícola e ao enfrentamento de desafios relacionados à segurança alimentar.
+
+*An academic project developed during my Software Engineering degree at FIAP, focused on applying technology to the agricultural sector and addressing food security challenges.*
+
+A iniciativa busca integrar inovação tecnológica, sustentabilidade e desenvolvimento de software para contribuir com soluções de impacto socioambiental.
+
+*The initiative aims to integrate technological innovation, sustainability, and software development to contribute to solutions with positive social and environmental impact.*
+
+#### 🛠️ Tecnologias / *Technologies*
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🚧 Projeto em desenvolvimento.
+
+*Project currently under development.*
+
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/bvercesi-dev/Agrotech-ProjetoFIAP)
+
+
+### 🏙️ Cidade Ativa — Projeto FIAP
+
+![Type](https://img.shields.io/badge/Type-Academic-283149?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-2E7D32?style=flat-square)
+![Category](https://img.shields.io/badge/Category-Urban%20Innovation-007ACC?style=flat-square)
+
+Projeto acadêmico desenvolvido durante a graduação em Engenharia de Software na FIAP, com foco na aplicação de conhecimentos técnicos à resolução de desafios do contexto urbano.
+
+*An academic project developed during my Software Engineering degree at FIAP, focused on applying technical knowledge to address urban challenges.*
+
+O projeto representa uma etapa da minha trajetória acadêmica, marcada pela aplicação prática de conceitos de desenvolvimento de software e resolução de problemas.
+
+*The project represents a milestone in my academic journey, marked by the practical application of software development and problem-solving concepts.*
+
+✅ Projeto concluído.
+
+*Completed project.*
+
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/bvercesi-dev/Cidade-Ativa-FIAP)
+
+
+
+Novos projetos serão adicionados conforme minha evolução técnica.
+
+*New projects will be added as my technical skills evolve.*
+
+---
+
+## 🗺️ Roadmap de desenvolvimento
+*Development roadmap*
+
+- [x] 🎓 Iniciar a graduação em Engenharia de Software.
+
+  *Begin my Software Engineering degree.*
+
+- [x] 🐙 Criar meu perfil e portfólio no GitHub.
+
+  *Create my GitHub profile and portfolio.*
+
+- [x] 📚 Criar um laboratório de estudos acadêmicos.
+
+  *Create an academic learning laboratory.*
+
+- [ ] 🧠 Consolidar os fundamentos da programação.
+
+  *Strengthen my programming fundamentals.*
+
+- [ ] 🌐 Desenvolver aplicações web completas.
+
+  *Build complete web applications.*
+
+- [ ] 🗄️ Aprender bancos de dados e SQL.
+
+  *Learn databases and SQL.*
+
+- [ ] ⚙️ Desenvolver APIs e aplicações back-end.
+
+  *Develop APIs and back-end applications.*
+
+- [ ] 🧪 Implementar testes automatizados.
+
+  *Implement automated testing.*
+
+- [ ] 🐳 Aprender Docker, CI/CD e fundamentos de DevOps.
+
+  *Learn Docker, CI/CD, and DevOps fundamentals.*
+
+- [ ] 🌍 Contribuir para projetos open source.
+
+  *Contribute to open-source projects.*
+
+- [ ] 💼 Conquistar minha primeira oportunidade profissional em tecnologia.
+
+  *Secure my first professional opportunity in technology.*
+
+- [ ] 🎓 Concluir a graduação em Engenharia de Software.
+
+  *Complete my Software Engineering degree.*
+
+---
+
+## 🌍 Idiomas
+*Languages*
+
+| Idioma / *Language* | Proficiência / *Proficiency* |
+|---|---|
+| 🇧🇷 Português / *Portuguese* | Nativo / *Native* |
+| 🇬🇧 Inglês / *English* | Fluente / *Fluent* |
+| 🇫🇷 Francês / *French* | Básico / *Basic* |
+| 🇸🇪 Sueco / *Swedish* | Iniciante / *Beginner* |
+
+A aprendizagem de idiomas faz parte do meu compromisso com o desenvolvimento pessoal e intelectual contínuo.
+
+*Language learning is part of my commitment to continuous personal and intellectual development.*
+
+---
+
+## 📊 Estatísticas de desenvolvimento
+*Development statistics*
+
+Acompanhamento do tempo dedicado à programação, aos estudos e ao desenvolvimento de projetos.
+
+*Tracking the time dedicated to coding, studying, and project development.*
+
+### ⏱️ WakaTime
+
 [![wakatime](https://wakatime.com/badge/user/a63a3aa0-d58b-43b5-a7d8-3318e0f313e4.svg)](https://wakatime.com/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4)
 <br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/cbbadc00-3696-4780-8246-8d3f0307717e.png" width="400" height="305"></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/d8bfccec-f4bc-4d18-b649-05cfc919d9ae.png"  width="400" height="305"></a>
+
+---
+
+## ✨ Além do código
+*Beyond the code*
+
+📚 Literatura, filosofia e pesquisa acadêmica.
+
+*Literature, philosophy, and academic research.*
+
+🐎 Hipismo e universo equestre.
+
+*Equestrian sports and equestrian culture.*
+
+🎨 Arte, design e criatividade.
+
+*Art, design, and creativity.*
+
+🎸 Rock, hard rock e música clássica.
+
+*Rock, hard rock, and classical music.*
+
+🌍 Idiomas, culturas e aprendizagem contínua.
+
+*Languages, cultures, and lifelong learning.*
+
+---
+
+## 📫 Contato
+*Let's connect*
+
+Estou aberta a conexões profissionais, oportunidades de aprendizagem, colaborações e novos desafios na área de tecnologia.
+
+*I am open to professional connections, learning opportunities, collaborations, and new challenges in technology.*
+
+[![Email](https://img.shields.io/badge/Email-bvercesi.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvercesi.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-bvercesi--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bvercesi-dev)
+
+---
+
+<div align="center">
+
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/769eeff0-1050-4f6e-ac93-cbf036e1442d" />
+
+### ⚡ From Law to Code.
+
+Aprender fazendo. Construir compreendendo. Evoluir intencionalmente.
+
+*Learning by doing. Building by understanding. Evolving by design.*
+
+![Made with dedication](https://img.shields.io/badge/Made%20with-Dedication-ED145B?style=flat-square)
+![Never stop learning](https://img.shields.io/badge/Never%20stop-Learning-283149?style=flat-square)
+
+**© 2026 Beatriz Boccato Vercesi**
+
+</div>
+
