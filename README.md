@@ -6,7 +6,7 @@
 Hello World! I'm Beatriz Vercesi 👋
 </h1>
 
-### ⚡ From Law to Code.
+⚡ From Tax Law to Code.
 
 **Software Engineering Student | Tax Lawyer | Lifelong Learner**
 
@@ -15,40 +15,44 @@ Hello World! I'm Beatriz Vercesi 👋
 ![Career](https://img.shields.io/badge/Career-Transition-6C757D?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Brazil-2E7D32?style=flat-square)
 
-*Learning by doing. Building by understanding. Evolving by design.*
 
 </div>
 
----
+## 📫 Contato
+*Let's connect*
+
+Estou aberta a conexões profissionais, oportunidades de aprendizagem, colaborações e novos desafios na área de tecnologia.
+*I am open to professional connections, learning opportunities, collaborations and new challenges in technology.*
+
+[![Email](https://img.shields.io/badge/Email-bvercesi.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvercesi.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-bvercesi--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bvercesi-dev)
+
+
+
+
 
 ## 👩‍💻 Sobre mim
 *About me*
 
 ⚖️ Sou advogada tributarista, mestranda em Direito Tributário e graduanda em Engenharia de Software, atualmente em processo de transição de carreira para a área de tecnologia.
-
 *I am a tax lawyer, a Master's student in Tax Law, and a Software Engineering undergraduate student, currently transitioning into a career in technology.*
 
 🔭 Atualmente, estou focada na construção de um portfólio de aplicações, no desenvolvimento de competências técnicas e na exploração de diferentes áreas da engenharia de software.
-
 *I am currently focused on building a portfolio of applications, developing technical skills, and exploring different areas of software engineering.*
 
 🌱 Estou aprendendo linguagens, frameworks e ferramentas de desenvolvimento web, além de aprofundar meus conhecimentos em lógica de programação e Python.
-
 *I am learning web development languages, frameworks, and tools while expanding my knowledge of programming logic and Python.*
 
 🧠 Minha formação interdisciplinar combina raciocínio analítico, pensamento crítico, resolução de problemas e curiosidade intelectual.
-
 *My interdisciplinary background combines analytical reasoning, critical thinking, problem-solving, and intellectual curiosity.*
 
 💡 Acredito na tecnologia como instrumento de transformação, inovação e resolução de problemas reais.
-
 *I believe in technology as a tool for transformation, innovation, and real-world problem-solving.*
 
----
+
 
 ## 🎓 Formação acadêmica
 *Academic background*
-
 
 <table>
   <tr>
@@ -155,18 +159,10 @@ Hello World! I'm Beatriz Vercesi 👋
 <img src="https://img.shields.io/badge/Consensus-2563EB?style=for-the-badge" alt="Consensus" />
 
 
-Utilizo ferramentas de inteligência artificial como suporte à aprendizagem, pesquisa, desenvolvimento de software, documentação técnica e resolução de problemas.
+Utilizo ferramentas de inteligência artificial como suporte para produtividade, aprendizagem e pesquisa. Busco integrar a inteligência artificial ao meu fluxo de trabalho de maneira crítica, ética e responsável.
 
-*I use artificial intelligence tools to support learning, research, software development, technical documentation, and problem-solving.*
+*I use artificial intelligence tools to support productivity,llearning and research. I aim to integrate artificial intelligence into my workflow in a critical, ethical, and responsible manner.*
 
-Busco integrar a inteligência artificial ao meu fluxo de trabalho de maneira crítica, ética e responsável.
-
-*I aim to integrate artificial intelligence into my workflow in a critical, ethical, and responsible manner.*
-
-
-As tecnologias apresentadas fazem parte do meu processo contínuo de aprendizagem e desenvolvimento.
-
-*The technologies presented are part of my continuous learning and development journey.*
 
 ---
 
@@ -210,7 +206,6 @@ A iniciativa busca integrar inovação tecnológica, sustentabilidade e desenvol
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 🚧 Projeto em desenvolvimento.
-
 *Project currently under development.*
 
 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/bvercesi-dev/Agrotech-ProjetoFIAP)
@@ -231,16 +226,10 @@ O projeto representa uma etapa da minha trajetória acadêmica, marcada pela apl
 *The project represents a milestone in my academic journey, marked by the practical application of software development and problem-solving concepts.*
 
 ✅ Projeto concluído.
-
 *Completed project.*
 
 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/bvercesi-dev/Cidade-Ativa-FIAP)
 
-
-
-Novos projetos serão adicionados conforme minha evolução técnica.
-
-*New projects will be added as my technical skills evolve.*
 
 ---
 
@@ -254,18 +243,12 @@ Novos projetos serão adicionados conforme minha evolução técnica.
 | 🇫🇷 Francês / *French* | Básico / *Basic* |
 | 🇸🇪 Sueco / *Swedish* | Iniciante / *Beginner* |
 
-A aprendizagem de idiomas faz parte do meu compromisso com o desenvolvimento pessoal e intelectual contínuo.
-
-*Language learning is part of my commitment to continuous personal and intellectual development.*
 
 ---
 
 ## 📊 Estatísticas de desenvolvimento
 *Development statistics*
 
-Acompanhamento do tempo dedicado à programação, aos estudos e ao desenvolvimento de projetos.
-
-*Tracking the time dedicated to coding, studying, and project development.*
 
 ### ⏱️ WakaTime
 
@@ -346,33 +329,4 @@ Acompanhamento do tempo dedicado à programação, aos estudos e ao desenvolvime
 </table>
 
 
-
-## 📫 Contato
-*Let's connect*
-
-Estou aberta a conexões profissionais, oportunidades de aprendizagem, colaborações e novos desafios na área de tecnologia.
-
-*I am open to professional connections, learning opportunities, collaborations, and new challenges in technology.*
-
-[![Email](https://img.shields.io/badge/Email-bvercesi.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvercesi.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bvercesi--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bvercesi-dev)
-
----
-
-<div align="center">
-
-<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/769eeff0-1050-4f6e-ac93-cbf036e1442d" />
-
-### ⚡ From Law to Code.
-
-Aprender fazendo. Construir compreendendo. Evoluir intencionalmente.
-
-*Learning by doing. Building by understanding. Evolving by design.*
-
-![Made with dedication](https://img.shields.io/badge/Made%20with-Dedication-ED145B?style=flat-square)
-![Never stop learning](https://img.shields.io/badge/Never%20stop-Learning-283149?style=flat-square)
-
-**© 2026 Beatriz Boccato Vercesi**
-
-</div>
 
