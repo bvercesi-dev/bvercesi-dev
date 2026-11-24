@@ -18,17 +18,12 @@ Hello World! I'm Beatriz Vercesi 👋
 
 </div>
 
-## 📫 Contato
-*Let's connect*
-
-Estou aberta a conexões profissionais, oportunidades de aprendizagem, colaborações e novos desafios na área de tecnologia.
-*I am open to professional connections, learning opportunities, collaborations and new challenges in technology.*
+<div align="center">
+<h3>📫 Contact me</h3>
 
 [![Email](https://img.shields.io/badge/Email-bvercesi.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvercesi.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-bvercesi--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bvercesi-dev)
-
-
-
+</div>
 
 
 ## 👩‍💻 Sobre mim
