@@ -111,9 +111,38 @@ Bacharel em Direito e advogada com atuação na área tributária.
 ### 🎨 Design e produtividade
 *Design and productivity*
 
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-134881?style=for-the-badge&logo=affinitydesigner&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+
+
+### 🤖 Inteligência artificial 
+*Artificial intelligence*
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Adobe Acrobat AI](https://img.shields.io/badge/Adobe_Acrobat_AI-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+<img src="https://img.shields.io/badge/Grok%20Bot-000000?style=for-the-badge" alt="Grok Bot" />
+<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge" alt="NotebookLM" />
+<img src="https://img.shields.io/badge/Consensus-2563EB?style=for-the-badge" alt="Consensus" />
+
+
+Utilizo ferramentas de inteligência artificial como suporte à aprendizagem, pesquisa, desenvolvimento de software, documentação técnica e resolução de problemas.
+
+*I use artificial intelligence tools to support learning, research, software development, technical documentation, and problem-solving.*
+
+Busco integrar a inteligência artificial ao meu fluxo de trabalho de maneira crítica, ética e responsável.
+
+*I aim to integrate artificial intelligence into my workflow in a critical, ethical, and responsible manner.*
+
 
 As tecnologias apresentadas fazem parte do meu processo contínuo de aprendizagem e desenvolvimento.
 
