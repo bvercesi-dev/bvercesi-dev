@@ -170,43 +170,6 @@ As tecnologias apresentadas fazem parte do meu processo contínuo de aprendizage
 
 ---
 
-## 🔍 Áreas de interesse
-*Areas of interest*
-
-- 💻 Desenvolvimento de software
-
-  *Software development*
-
-- 🌐 Desenvolvimento full-stack
-
-  *Full-stack development*
-
-- 🏗️ Arquitetura e modelagem de sistemas
-
-  *Software architecture and system modeling*
-
-- 🤖 Automação e inteligência artificial
-
-  *Automation and artificial intelligence*
-
-- ⚖️ LegalTech e TaxTech
-
-  *Legal technology and tax technology*
-
-- 📊 Engenharia de dados e soluções orientadas a dados
-
-  *Data engineering and data-driven solutions*
-
-- 🎨 Desenvolvimento de produtos digitais
-
-  *Digital product development*
-
-- 🧩 Algoritmos e resolução de problemas
-
-  *Algorithms and problem-solving*
-
----
-
 ## 📂 Portfólio e projetos
 *Portfolio and projects*
 
@@ -366,28 +329,75 @@ Acompanhamento do tempo dedicado à programação, aos estudos e ao desenvolvime
 
 ---
 
-## ✨ Além do código
-*Beyond the code*
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h2>🔍 Áreas de interesse</h2>
+      <i>Areas of interest</i>
+    </td>
+    <td width="50%" align="center">
+      <h2>✨ Além do código</h2>
+      <i>Beyond the code</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      💻 Desenvolvimento de software
+      <br>
+      <i>Software development</i>
+      <br><br>
+      🌐 Desenvolvimento full-stack
+      <br>
+      <i>Full-stack development</i>
+      <br><br>
+      🏗️ Arquitetura e modelagem de sistemas
+      <br>
+      <i>Software architecture and system modeling</i>
+      <br><br>
+      🤖 Automação e inteligência artificial
+      <br>
+      <i>Automation and artificial intelligence</i>
+      <br><br>
+      ⚖️ LegalTech e TaxTech
+      <br>
+      <i>Legal technology and tax technology</i>
+      <br><br>
+      📊 Engenharia de dados e soluções orientadas a dados
+      <br>
+      <i>Data engineering and data-driven solutions</i>
+      <br><br>
+      🎨 Desenvolvimento de produtos digitais
+      <br>
+      <i>Digital product development</i>
+      <br><br>
+      🧩 Algoritmos e resolução de problemas
+      <br>
+      <i>Algorithms and problem-solving</i>
+    </td>
+    <td width="50%" valign="top" align="left">
+      📚 Literatura, filosofia e pesquisa acadêmica.
+      <br>
+      <i>Literature, philosophy, and academic research.</i>
+      <br><br>
+      🐎 Hipismo e universo equestre.
+      <br>
+      <i>Equestrian sports and equestrian culture.</i>
+      <br><br>
+      🎨 Arte, design e criatividade.
+      <br>
+      <i>Art, design, and creativity.</i>
+      <br><br>
+      🎸 Rock, hard rock e música clássica.
+      <br>
+      <i>Rock, hard rock, and classical music.</i>
+      <br><br>
+      🌍 Idiomas, culturas e aprendizagem contínua.
+      <br>
+      <i>Languages, cultures, and lifelong learning.</i>
+    </td>
+  </tr>
+</table>
 
-📚 Literatura, filosofia e pesquisa acadêmica.
-
-*Literature, philosophy, and academic research.*
-
-🐎 Hipismo e universo equestre.
-
-*Equestrian sports and equestrian culture.*
-
-🎨 Arte, design e criatividade.
-
-*Art, design, and creativity.*
-
-🎸 Rock, hard rock e música clássica.
-
-*Rock, hard rock, and classical music.*
-
-🌍 Idiomas, culturas e aprendizagem contínua.
-
-*Languages, cultures, and lifelong learning.*
 
 ---
 
