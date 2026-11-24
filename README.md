@@ -244,59 +244,6 @@ Novos projetos serão adicionados conforme minha evolução técnica.
 
 ---
 
-## 🗺️ Roadmap de desenvolvimento
-*Development roadmap*
-
-- [x] 🎓 Iniciar a graduação em Engenharia de Software.
-
-  *Begin my Software Engineering degree.*
-
-- [x] 🐙 Criar meu perfil e portfólio no GitHub.
-
-  *Create my GitHub profile and portfolio.*
-
-- [x] 📚 Criar um laboratório de estudos acadêmicos.
-
-  *Create an academic learning laboratory.*
-
-- [ ] 🧠 Consolidar os fundamentos da programação.
-
-  *Strengthen my programming fundamentals.*
-
-- [ ] 🌐 Desenvolver aplicações web completas.
-
-  *Build complete web applications.*
-
-- [ ] 🗄️ Aprender bancos de dados e SQL.
-
-  *Learn databases and SQL.*
-
-- [ ] ⚙️ Desenvolver APIs e aplicações back-end.
-
-  *Develop APIs and back-end applications.*
-
-- [ ] 🧪 Implementar testes automatizados.
-
-  *Implement automated testing.*
-
-- [ ] 🐳 Aprender Docker, CI/CD e fundamentos de DevOps.
-
-  *Learn Docker, CI/CD, and DevOps fundamentals.*
-
-- [ ] 🌍 Contribuir para projetos open source.
-
-  *Contribute to open-source projects.*
-
-- [ ] 💼 Conquistar minha primeira oportunidade profissional em tecnologia.
-
-  *Secure my first professional opportunity in technology.*
-
-- [ ] 🎓 Concluir a graduação em Engenharia de Software.
-
-  *Complete my Software Engineering degree.*
-
----
-
 ## 🌍 Idiomas
 *Languages*
 
@@ -327,7 +274,7 @@ Acompanhamento do tempo dedicado à programação, aos estudos e ao desenvolvime
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/cbbadc00-3696-4780-8246-8d3f0307717e.png" width="400" height="305"></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@a63a3aa0-d58b-43b5-a7d8-3318e0f313e4/d8bfccec-f4bc-4d18-b649-05cfc919d9ae.png"  width="400" height="305"></a>
 
----
+
 
 <table>
   <tr>
@@ -399,7 +346,6 @@ Acompanhamento do tempo dedicado à programação, aos estudos e ao desenvolvime
 </table>
 
 
----
 
 ## 📫 Contato
 *Let's connect*
