@@ -49,36 +49,56 @@ Hello World! I'm Beatriz Vercesi 👋
 ## 🎓 Formação acadêmica
 *Academic background*
 
-### 💻 Engenharia de Software
-*Software Engineering*
 
-**FIAP — Faculdade de Informática e Administração Paulista**
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>💻 Engenharia de Software</h3>
+      <i>Software Engineering</i>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>⚖️ Mestrado em Direito Tributário</h3>
+      <i>Master's Degree in Tax Law</i>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>📚 Direito</h3>
+      <i>Law</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <strong>FIAP — Faculdade de Informática e Administração Paulista</strong>
+      <br><br>
+      Graduação em andamento | 2026 – presente
+      <br><br>
+      <i>Undergraduate degree in progress | 2026 – present</i>
+    </td>
+    <td align="center" valign="top">
+      <strong>IBET — Instituto Brasileiro de Estudos Tributários</strong>
+      <br><br>
+      Mestrado acadêmico em andamento.
+      <br><br>
+      <i>Academic Master's degree in progress.</i>
+    </td>
+    <td align="center" valign="top">
+      Bacharel em Direito e advogada com atuação na área tributária.
+      <br><br>
+      <i>Law graduate and practicing lawyer specializing in tax law.</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Status-In%20Progress-2E7D32?style=flat-square" alt="In Progress">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Status-In%20Progress-2E7D32?style=flat-square" alt="In Progress">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Status-Completed-283149?style=flat-square" alt="Completed">
+    </td>
+  </tr>
+</table>
 
-Graduação em andamento | 2026 – presente
-
-*Undergraduate degree in progress | 2026 – present*
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-2E7D32?style=flat-square)
-
-### ⚖️ Mestrado em Direito Tributário
-*Master's Degree in Tax Law*
-
-**IBET — Instituto Brasileiro de Estudos Tributários**
-
-Mestrado acadêmico em andamento.
-
-*Academic Master's degree in progress.*
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-2E7D32?style=flat-square)
-
-### 📚 Direito
-*Law*
-
-Bacharel em Direito e advogada com atuação na área tributária.
-
-*Law graduate and practicing lawyer specializing in tax law.*
-
-![Status](https://img.shields.io/badge/Status-Completed-283149?style=flat-square)
 
 ---
 
