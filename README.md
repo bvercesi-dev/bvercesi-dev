@@ -150,7 +150,6 @@ Hello World! I'm Beatriz Vercesi 👋
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Adobe Acrobat AI](https://img.shields.io/badge/Adobe_Acrobat_AI-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 <img src="https://img.shields.io/badge/Grok%20Bot-000000?style=for-the-badge" alt="Grok Bot" />
-<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge" alt="NotebookLM" />
 <img src="https://img.shields.io/badge/Consensus-2563EB?style=for-the-badge" alt="Consensus" />
 
 
